@@ -1,1 +1,1 @@
-# covid-notifier
+# PreactX-SSR-Webpack-Boilerplate
