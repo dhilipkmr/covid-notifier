@@ -63,7 +63,7 @@
     "link-module-alias": "^1.2.0",
     "webpack": "4.16.2",
     "webpack-bundle-analyzer": "^3.6.0",
-    "webpack-cli": "3.1.0"
+    "webpack-cli": "3.3.12"
   },
   "dependencies": {
     "all": "0.0.0",
